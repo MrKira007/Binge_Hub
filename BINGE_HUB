@@ -1692,7 +1692,8 @@ https://madplay.live/jiotv/app/live/2423/null/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"fL6zOZA4Awax9bmg+09v0A","kid":"LyfQU9g9UoSFnN2LJrsX4g"}]}
 #EXTINF: -1 tvg-id="114" tvg-name="Disney Channel" tvg-chno="4" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" tvg-logo-small="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" audio-track="Multi Audio" group-title="{BH} KIDS", Disney Channel
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
-
+#EXTINF: -1 tvg-id="tw02" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png" group-title="{BH} KIDS", Hungama Hindi
+http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1704,7 +1705,7 @@ https://discoveryplus.yashrajmod.repl.co/Discovery_Kids.m3u8
 #EXTINF: -1 tvg-id="557" tvg-name="Chutti TV" tvg-chno="22" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png" audio-track="Tamil" group-title="{BH} KIDS", Chutti TV
 https://madplay.live/jiotv/app/live/557/null/index.m3u8
 #EXTINF: -1 tvg-id="114" tvg-name="Disney Channel HD" tvg-chno="22" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4739308/839722338.webp" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/1/11/Disney_Channel_India_HD.png/revision/latest/scale-to-width-down/1000?cb=20211017152532" audio-track="Hindi" group-title="{BH} KIDS", Disney Channel HD
-http://ultratv.one:2095/play/live.php?mac=00:1A:79:AE:69:C4&stream=517273&extension=m3u8&play_token
+http://portal.zebratv.one:2095/play/live.php?mac=00:1A:79:BF:DC:77&stream=517273&extension=ts&play_token=vqFHN7YhnH
 #EXTINF: -1 tvg-id="555" tvg-name="Chintu TV" tvg-chno="23" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chintu_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Chintu_TV.png" audio-track="Kannada" group-title="{BH} KIDS", Chintu TV
 https://madplay.live/jiotv/app/live/555/null/index.m3u8
 
