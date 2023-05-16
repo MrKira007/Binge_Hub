@@ -829,7 +829,14 @@ https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_655/output/manifes
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
 #EXTINF: -1 tvg-id="2257" tvg-name="POPxo" tvg-chno="21" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/POPxo.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/POPxo.png" audio-track="Telugu" group-title="{BH} KNOWLEDGE", POPxo
 https://www.livesportsclub.tk/jiotv/app/live/2257/null/index.m3u8
-
+#EXTINF:-1 tvg-id="26" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="{BH} KNOWLEDGE",Sony BBC Earth HD
+https://www.livesportsclub.tk/jiotv/app/live/821/null/index.m3u8
+#EXTINF:-1 tvg-id="139" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="{BH} KNOWLEDGE",Animal Planet Hindi
+https://www.livesportsclub.tk/jiotv/app/live/566/null/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="{BH} KNOWLEDGE",History TV18 HD
+https://www.livesportsclub.tk/jiotv/app/live/146/null/index.m3u8
+#EXTINF:-1 tvg-id="146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="{BH} KNOWLEDGE",History TV18 HD Tamil
+https://www.livesportsclub.tk/jiotv/app/live/579/null/index.m3u8
 #EXTINF: -1 tvg-id="1252" tvg-name="Tehzeeb TV" tvg-chno="25" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" audio-track="Telugu" group-title="{BH} KNOWLEDGE", Tehzeeb TV
 https://www.livesportsclub.tk/jiotv/app/live/1252/null/index.m3u8
 #EXTINF: -1 tvg-id="2388" tvg-name="Tom TV" tvg-chno="26" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tom_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tom_TV.png" audio-track="Hindi" group-title="{BH} KNOWLEDGE", Tom TV
