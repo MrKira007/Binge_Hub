@@ -1993,7 +1993,10 @@ https://www.livesportsclub.tk/jiotv/app/live/2043/null/index.m3u8
 https://www.livesportsclub.tk/jiotv/app/live/2324/null/index.m3u8
 #EXTINF: -1 tvg-id="2354" tvg-name="Friends TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Friends_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Friends_TV.png" audio-track="English" group-title="{BH} REGIONAL ENGLISH", Friends TV
 https://www.livesportsclub.tk/jiotv/app/live/2354/null/index.m3u8
-
+#EXTINF:-1 tvg-id="2345" tvg-name="& Prive HD" tvg-logo="" group-title="{BH} REGIONAL ENGLISH",& Xplore HD
+https://news-live-cfgroup.zee5.com/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index_35.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="& Flix HD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658379547401" group-title="{BH} REGIONAL ENGLISH",& Flix HD
+https://news-live-cfgroup.zee5.com/out/v1/1fdd621077c04a568628705e08b6363e/index_6.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"hRDRbZ00DhzAv16/b6VHpA","kid":"WWPH/MHOVJOFQAYbkX+74g"}]}
 #EXTINF: -1 tvg-id="901" tvg-name="Udaya HD" tvg-chno="4" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_HD.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_HD.png" audio-track="Kannada" group-title="{BH} REGIONAL KANNADA", Udaya HD
@@ -2224,6 +2227,8 @@ https://jiolivestreaming.akamaized.net/bpk-tv/Surya_Movies_MOB/WDVLive/index.mpd
 https://www.livesportsclub.tk/jiotv/app/live/747/null/index.m3u8
 #EXTINF: -1 tvg-id="294" tvg-name="Asianet Plus" tvg-chno="23" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4740730/840036093.webp" tvg-logo-small="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4740730/840036093.webp" audio-track="Malayalam" group-title="{BH} REGIONAL MALAYALAM", Asianet Plus
 http://103.175.73.14:8000/play/a00h/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo268830785" group-title="{BH} REGIONAL MALAYALAM",Zee Keralam HD
+https://news-live-cfgroup.zee5.com/out/v1/9ccbe263119946e786a09eb4d26ca791/index_8.m3u8
 #EXTINF: -1 tvg-id="844" tvg-name="Mazavali Manorama HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" audio-track="Malayalam" group-title="{BH} REGIONAL MALAYALAM", Mazavali Manorama HD
 https://www.livesportsclub.tk/jiotv/app/live/844/null/index.m3u8
 #EXTINF: -1 tvg-id="634" tvg-name="Flower TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png" audio-track="Malayalam" group-title="{BH} REGIONAL MALAYALAM", Flower TV
