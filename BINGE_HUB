@@ -1701,8 +1701,10 @@ https://www.livesportsclub.tk/jiotv/app/live/2423/null/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"fL6zOZA4Awax9bmg+09v0A","kid":"LyfQU9g9UoSFnN2LJrsX4g"}]}
 #EXTINF: -1 tvg-id="114" tvg-name="Disney Channel" tvg-chno="4" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" tvg-logo-small="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png" audio-track="Multi Audio" group-title="{BH} KIDS", Disney Channel
 https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifest.mpd
-#EXTINF: -1 tvg-id="tw02" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png" group-title="{BH} KIDS", Hungama Hindi
+#EXTINF: -1 tvg-id="tw02" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png" group-title="{BH} KIDS", Hungama TV Hindi
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-id="tw02" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png" group-title="{BH} KIDS", Hungama TV
+http://5.188.182.210/live/Kim2/geGfLcVODf/66162.ts?token=ShJcU0BbQQNHXQQIUQAFCAEBAwNXUVFVB1JVAQNVVlcJUVJWUQBWCFcbGBpEF0dcWF1vWQIXXlcHU1QFSUZGQVRCa1tXEVkbVwoGAQ9VFxUbRFldAxdeUAdaVgNWVwoKBhwWQlpXQQNHCA0KDlAXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVSBg4LEhwSBVoRD0UQGxVfRnp8ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgRRBwsbTQ==
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
