@@ -2123,8 +2123,7 @@ https://www.livesportsclub.tk/jiotv/app/live/737/null/index.m3u8
 https://www.livesportsclub.tk/jiotv/app/live/1881/null/index.m3u8
 #EXTINF: -1 tvg-id="1973" tvg-name="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", ETV HD
 https://www.livesportsclub.tk/jiotv/app/live/1973/null/index.m3u8
-#EXTINF: -1 tvg-id="2189" tvg-name="Aaryaa Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Cinema.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Cinema.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Aaryaa Cinema
-https://www.livesportsclub.tk/jiotv/app/live/2189/null/index.m3u8
+
 #EXTINF: -1 tvg-id="2253" tvg-name="Nakshatra Digital TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Nakshatra Digital TV
 https://www.livesportsclub.tk/jiotv/app/live/2253/null/index.m3u8
 #EXTINF: -1 tvg-id="638" tvg-name="Zee Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Zee Telugu
@@ -2303,6 +2302,8 @@ https://www.livesportsclub.tk/jiotv/app/live/532/null/index.m3u8
 https://www.livesportsclub.tk/jiotv/app/live/486/null/index.m3u8
 #EXTINF: -1 tvg-id="741" tvg-name="Sangeet Bhojpuri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" audio-track="Bhojpuri" group-title="{BH} REGIONAL BHOJPURI", Sangeet Bhojpuri
 https://www.livesportsclub.tk/jiotv/app/live/741/null/index.m3u8
+#EXTINF: -1 tvg-id="2189" tvg-name="Aaryaa Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Cinema.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Aaryaa_Cinema.png" audio-track="Telugu" group-title="{BH} REGIONAL BHOJPURI", Aaryaa Cinema
+https://www.livesportsclub.tk/jiotv/app/live/2189/null/index.m3u8
 #EXTINF: -1 tvg-id="883" tvg-name="Oscar Movies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" audio-track="Bhojpuri" group-title="{BH} REGIONAL BHOJPURI", Oscar Movies
 https://www.livesportsclub.tk/jiotv/app/live/883/null/index.m3u8
 #EXTINF: -1 tvg-id="1296" tvg-name="B4U Bhojpuri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png" audio-track="Bhojpuri" group-title="{BH} REGIONAL BHOJPURI", B4U Bhojpuri
