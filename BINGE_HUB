@@ -136,8 +136,12 @@ https://jiolivestreaming.akamaized.net/bpk-tv/Kushi_TV_MOB/WDVLive/index.mpd
 #EXTINF: -1 tvg-id="556" tvg-name="Kochu TV" tvg-chno="25" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4738879/839656294.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Kochu_TV.png" audio-track="Malayalam" group-title="{BH} SUNXT", Kochu TV
 https://www.livesportsclub.tk/jiotv/app/live/556/null/index.m3u8
 
-#EXTINF: -1 tvg-id="154" tvg-name="Sony Sab SD" tvg-chno="1" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4739009/839722315.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" audio-track="Hindi" group-title="{BH} SONYLIV", Sony Sab SD
-https://72n5.short.gy/Sony_sab_sd.bjtech_..m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"oDPOg1OnE7nc35NpbFtS4Q","kid":"/PkBJwRfXtq8XZSpMvXG/g"}]}
+#EXTINF:-1 tvg-id="471" tvg-name="Sony Sab" group-title="{BH} SONYLIV"  tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd
 
 #EXTINF: -1 tvg-id="291" tvg-name="SONY HD" tvg-chno="2" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4739009/839722316.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" audio-track="Hindi" group-title="{BH} SONYLIV", Sony HD
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
@@ -1764,8 +1768,12 @@ https://www.livesportsclub.tk/jiotv/app/live/1872/null/index.m3u8
 https://www.livesportsclub.tk/jiotv/app/live/1976/null/index.m3u8
 #EXTINF: -1 tvg-id="2258" tvg-name="Animax" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Animax.png" audio-track="English" group-title="{BH} KIDS", Animax
 https://www.livesportsclub.tk/jiotv/app/live/2258/null/index.m3u8
-#EXTINF: -1 tvg-id="154" tvg-name="Sony Sab SD" tvg-chno="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" audio-track="Hindi" group-title="{BH} REGIONAL HINDI", Sony Sab SD
-https://72n5.short.gy/Sony_sab_sd.bjtech_..m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"oDPOg1OnE7nc35NpbFtS4Q","kid":"/PkBJwRfXtq8XZSpMvXG/g"}]}
+#EXTINF:-1 tvg-id="471" tvg-name="Sony Sab" group-title="{BH} REGIONAL HINDI"  tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12081-j9oc38xc-v8/imageContent-12081-j9oc38xc-m7.png",Sony Sab
+https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_126/output/manifest.mpd
 #EXTINF: -1 tvg-id="144" tvg-name="Colors HD" tvg-chno="1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" audio-track="Hindi" group-title="{BH} REGIONAL HINDI", Colors HD
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="291" tvg-name="SONY HD" tvg-chno="2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" audio-track="Hindi" group-title="{BH} REGIONAL HINDI", Sony HD
