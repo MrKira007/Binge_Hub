@@ -1708,7 +1708,7 @@ https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_166/output/manifes
 #EXTINF: -1 tvg-id="tw02" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png" group-title="{BH} KIDS", Hungama TV Hindi
 http://144.217.70.181:9587/hin2/HUNGAMA/tracks-v1a1/mono.m3u8?token=test
 #EXTINF: -1 tvg-id="tw02" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png" group-title="{BH} KIDS", Hungama TV
-http://5.188.182.210/live/Kim2/geGfLcVODf/66162.ts?token=ShJcU0BbQQNHXQQIUQAFCAEBAwNXUVFVB1JVAQNVVlcJUVJWUQBWCFcbGBpEF0dcWF1vWQIXXlcHU1QFSUZGQVRCa1tXEVkbVwoGAQ9VFxUbRFldAxdeUAdaVgNWVwoKBhwWQlpXQQNHCA0KDlAXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVSBg4LEhwSBVoRD0UQGxVfRnp8ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgRRBwsbTQ==
+http://starshare.live:8080/live/Kim2/geGfLcVODf/66162.ts
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
