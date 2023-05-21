@@ -1957,6 +1957,10 @@ https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Marathi_HD_voot_MOB
 https://www.livesportsclub.tk/jiotv/app/live/1326/null/index.m3u8
 #EXTINF: -1 tvg-id="691" tvg-name="Saam Tv" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" audio-track="Marathi" group-title="{BH} REGIONAL MARATHI", Saam Tv
 https://www.livesportsclub.tk/jiotv/app/live/691/null/index.m3u8
+#EXTINF: -1 tvg-id="153" tvg-name="Zee Talkies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" audio-track="Telugu" group-title="{BH} REGIONAL MARATHI", Zee Talkies
+https://www.livesportsclub.tk/jiotv/app/live/153/null/index.m3u8
+#EXTINF: -1 tvg-id="1358" tvg-name="Zee Talkies HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" audio-track="Telugu" group-title="{BH} REGIONAL MARATHI", Zee Talkies HD
+https://www.livesportsclub.tk/jiotv/app/live/1358/null/index.m3u8
 #EXTINF: -1 tvg-id="695" tvg-name="DD Sahayadri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png" audio-track="Marathi" group-title="{BH} REGIONAL MARATHI", DD Sahayadri
 https://www.livesportsclub.tk/jiotv/app/live/695/null/index.m3u8
 #EXTINF: -1 tvg-id="736" tvg-name="Maiboli" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png" audio-track="Marathi" group-title="{BH} REGIONAL MARATHI", Maiboli
@@ -1981,6 +1985,8 @@ https://www.livesportsclub.tk/jiotv/app/live/1360/null/index.m3u8
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="1325" tvg-name="Colors Infinity SD" tvg-chno="14" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png" audio-track="English" group-title="{BH} REGIONAL ENGLISH", Colors Infinity SD
 https://www.livesportsclub.tk/jiotv/app/live/1325/null/index.m3u8
+#EXTINF: -1 tvg-id="1881" tvg-name="E!" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_NBCU.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_NBCU.png" audio-track="Telugu" group-title="{BH} REGIONAL ENGLISH", E!
+https://www.livesportsclub.tk/jiotv/app/live/1881/null/index.m3u8
 #EXTINF: -1 tvg-id="248" tvg-name="MTV HD Plus" tvg-chno="22" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" audio-track="English" group-title="{BH} REGIONAL ENGLISH", MTV HD Plus
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/MTV_HD_Plus_voot_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="248" tvg-name="MTV" tvg-chno="23" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" audio-track="English" group-title="{BH} REGIONAL ENGLISH", MTV
@@ -2021,6 +2027,8 @@ https://www.livesportsclub.tk/jiotv/app/live/1370/null/index.m3u8
 https://www.livesportsclub.tk/jiotv/app/live/733/null/index.m3u8
 #EXTINF: -1 tvg-id="678" tvg-name="Udaya Movies" tvg-chno="12" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Movies.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Movies.png" audio-track="Kannada" group-title="{BH} REGIONAL KANNADA", Udaya Movies
 https://www.livesportsclub.tk/jiotv/app/live/678/null/index.m3u8
+#EXTINF: -1 tvg-id="2253" tvg-name="Nakshatra Digital TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png" audio-track="Telugu" group-title="{BH} REGIONAL KANNADA", Nakshatra Digital TV
+https://www.livesportsclub.tk/jiotv/app/live/2253/null/index.m3u8
 #EXTINF: -1 tvg-id="785" tvg-name="Colors Super" tvg-chno="19" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png" audio-track="Kannada" group-title="{BH} REGIONAL KANNADA", Colors Super
 https://prod-sports-north-gm.jiocinema.com:443/bpk-tv/Colors_Super_voot_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-id="744" tvg-name="Udaya Music" tvg-chno="20" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Music.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Udaya_Music.png" audio-track="Kannada" group-title="{BH} REGIONAL KANNADA", Udaya Music
@@ -2127,14 +2135,12 @@ https://www.livesportsclub.tk/jiotv/app/live/734/null/index.m3u8
 https://www.livesportsclub.tk/jiotv/app/live/252/null/index.m3u8
 #EXTINF: -1 tvg-id="737" tvg-name="Raj Music Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" audio-track="Marathi" group-title="{BH} REGIONAL TELUGU", Raj Music Telugu
 https://www.livesportsclub.tk/jiotv/app/live/737/null/index.m3u8
-#EXTINF: -1 tvg-id="1881" tvg-name="E!" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_NBCU.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/E_NBCU.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", E!
-https://www.livesportsclub.tk/jiotv/app/live/1881/null/index.m3u8
+
 #EXTINF: -1 tvg-id="1973" tvg-name="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", ETV HD
 https://www.livesportsclub.tk/jiotv/app/live/1973/null/index.m3u8
 #EXTINF: -1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzeeTeluguNews.png?alt=media&token=f7aa026e-d98c-4587-96ba-3b3cf819c4b0" group-title="{BH} REGIONAL TELUGU", Zee Telugu News
 https://d8ba55t6wa9p9.cloudfront.net/out/v1/1abef7be5629479a91eeb77e41701f86/index_4.m3u8
-#EXTINF: -1 tvg-id="2253" tvg-name="Nakshatra Digital TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Nakshatra_Digital_TV.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Nakshatra Digital TV
-https://www.livesportsclub.tk/jiotv/app/live/2253/null/index.m3u8
+
 #EXTINF: -1 tvg-id="638" tvg-name="Zee Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Zee Telugu
 https://www.livesportsclub.tk/jiotv/app/live/638/null/index.m3u8
 #EXTINF: -1 tvg-id="414" tvg-name="Zee Yuva" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Zee Yuva
@@ -2147,10 +2153,7 @@ https://www.livesportsclub.tk/jiotv/app/live/413/null/index.m3u8
 https://denverloverussian.000webhostapp.com/G7.php?c=0-9-zeecinemalu#key=[User-agent=REDLINECLIENT]
 #EXTINF:0 tvg-id="546" group-title="{BH} REGIONAL TELUGU" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658593933473.png",Zee Telugu HD
 https://denverloverussian.000webhostapp.com/G7.php?c=0-9-zeetelugu#key=[User-agent=REDLINECLIENT]
-#EXTINF: -1 tvg-id="153" tvg-name="Zee Talkies" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Zee Talkies
-https://www.livesportsclub.tk/jiotv/app/live/153/null/index.m3u8
-#EXTINF: -1 tvg-id="1358" tvg-name="Zee Talkies HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies_HD.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Zee Talkies HD
-https://www.livesportsclub.tk/jiotv/app/live/1358/null/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[ {"kty":"oct","k":"WebJPU/kM1OzSnHrhxhaqg","kid":"9BXBJKB8WVuXxDzJqW3tMA"}]}
