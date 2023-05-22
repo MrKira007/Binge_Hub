@@ -2122,22 +2122,22 @@ https://jiolivestreaming.akamaized.net/bpk-tv/Gemini_Music_HD_MOB/WDVLive/index.
 #EXTINF: -1 tvg-id="388" tvg-name="Star Maa Gold" tvg-chno="19" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66595-kupdpd9k-v1/imageContent-66595-kupdpd9k-m1.png" tvg-logo-small="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66595-kupdpd9k-v1/imageContent-66595-kupdpd9k-m1.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Star Maa Gold
 https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_608/output/manifest.mpd
 #EXTINF: -1 tvg-id="389" tvg-name="Star Maa Music" tvg-chno="24" tvg-logo="https://www.indiantvinfo.com/media/2022/09/Star-Maa-Music-Channel-300x225.webp" tvg-logo-small="https://www.indiantvinfo.com/media/2022/09/Star-Maa-Music-Channel-300x225.webp" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Star Maa Music
-http://starshare.live:8080/live/Kim2/geGfLcVODf/57772.ts
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=281969&extension=ts&play_token=i9nRUWBbok
 #EXTINF: -1 tvg-id="629" tvg-name="ETV Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", ETV Telugu
-https://www.livesportsclub.tk/jiotv/app/live/629/null/index.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=155853&extension=ts&play_token=UxFeArtNc0
 #EXTINF: -1 tvg-id="692" tvg-name="ETV Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", ETV Plus
-https://www.livesportsclub.tk/jiotv/app/live/692/null/index.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=155855&extension=ts&play_token=GOhK2LyTYu
 #EXTINF: -1 tvg-id="706" tvg-name="DD Saptagiri" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" tvg-logo-small="ttp://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", DD Saptagiri
 https://www.livesportsclub.tk/jiotv/app/live/706/null/index.m3u8
 #EXTINF: -1 tvg-id="734" tvg-name="Vissa TV" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Vissa TV
 https://www.livesportsclub.tk/jiotv/app/live/734/null/index.m3u8
 #EXTINF: -1 tvg-id="252" tvg-name="ETV Cinema" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", ETV Cinema
-https://www.livesportsclub.tk/jiotv/app/live/252/null/index.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=945956&extension=ts&play_token=vCezYFuTD2
 #EXTINF: -1 tvg-id="737" tvg-name="Raj Music Telugu" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png" audio-track="Marathi" group-title="{BH} REGIONAL TELUGU", Raj Music Telugu
 https://www.livesportsclub.tk/jiotv/app/live/737/null/index.m3u8
 
 #EXTINF: -1 tvg-id="1973" tvg-name="ETV HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", ETV HD
-https://www.livesportsclub.tk/jiotv/app/live/1973/null/index.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=155852&extension=ts&play_token=VxpbYdYj96
 #EXTINF: -1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/my-project-1607505417433.appspot.com/o/channel_logos%2FzeeTeluguNews.png?alt=media&token=f7aa026e-d98c-4587-96ba-3b3cf819c4b0" group-title="{BH} REGIONAL TELUGU", Zee Telugu News
 https://d8ba55t6wa9p9.cloudfront.net/out/v1/1abef7be5629479a91eeb77e41701f86/index_4.m3u8
 
