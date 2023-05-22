@@ -2289,7 +2289,9 @@ https://www.livesportsclub.tk/jiotv/app/live/2016/null/index.m3u8
 #EXTINF: -1 tvg-id="2227" tvg-name="Jatra Ekamra" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jatra_Ekamra.png" audio-track="Odia" group-title="{BH} REGIONAL ODIA", Jatra Ekamra
 https://www.livesportsclub.tk/jiotv/app/live/2227/null/index.m3u8
 #EXTINF: -1 tvg-id="1171" tvg-name="PTC Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" audio-track="Punjabi" group-title="{BH} REGIONAL PUNJABI", PTC Punjabi
-https://www.livesportsclub.tk/jiotv/app/live/1171/null/index.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=946156&extension=ts&play_token=5lQx2TTyww
+#EXTINF: -1 tvg-id="1171" tvg-name="PTC Simran" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png" audio-track="Punjabi" group-title="{BH} REGIONAL PUNJABI", PTC Simran
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=282054&extension=ts&play_token=cnWhGB5EbR
 #EXTINF: -1 tvg-id="715" tvg-name="DD Punjabi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" tvg-logo-small="ttp://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png" audio-track="Punjabi" group-title="{BH} REGIONAL PUNJABI", DD Punjabi
 https://www.livesportsclub.tk/jiotv/app/live/715/null/index.m3u8
 #EXTINF: -1 tvg-id="946" tvg-name="Pitaara" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png" audio-track="Punjabi" group-title="{BH} REGIONAL PUNJABI", Pitaara
