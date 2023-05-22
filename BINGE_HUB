@@ -842,7 +842,7 @@ https://www.livesportsclub.tk/jiotv/app/live/566/null/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" group-title="{BH} KNOWLEDGE",History TV18 HD
 https://www.livesportsclub.tk/jiotv/app/live/146/null/index.m3u8
 #EXTINF:-1 tvg-id="146" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png" group-title="{BH} KNOWLEDGE",History TV18 HD Tamil
-https://www.livesportsclub.tk/jiotv/app/live/579/null/index.m3u8
+http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=155886&extension=ts&play_token=V3VNmNDVOT
 #EXTINF: -1 tvg-id="1252" tvg-name="Tehzeeb TV" tvg-chno="25" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png" audio-track="Telugu" group-title="{BH} KNOWLEDGE", Tehzeeb TV
 https://www.livesportsclub.tk/jiotv/app/live/1252/null/index.m3u8
 #EXTINF: -1 tvg-id="2388" tvg-name="Tom TV" tvg-chno="26" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tom_TV.png" tvg-logo-small="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tom_TV.png" audio-track="Hindi" group-title="{BH} KNOWLEDGE", Tom TV
