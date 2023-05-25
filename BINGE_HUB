@@ -253,7 +253,7 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifes
 #EXTINF: -1 tvg-id="387" tvg-name="Star Maa Movies HD" tvg-chno="83" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" tvg-logo-small="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" audio-track="Telugu" group-title="{BH} HOTSTAR TV", Star Maa Movies HD
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd
 #EXTINF: -1 tvg-id="389" tvg-name="Star Maa Music" tvg-chno="84" tvg-logo="https://m3u-editor.com/storage/channel-logos/6b58c590-eda1-11ed-b920-87fee280370e/4742351/840335221.png" tvg-logo-small="https://www.indiantvinfo.com/media/2022/09/Star-Maa-Music-Channel-300x225.webp" audio-track="Telugu" group-title="{BH} HOTSTAR TV", Star Maa Music
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=281969&extension=ts&play_token=E2D9tnUpjH
+http://starshare.live:8080/live/2875245720/7652457246/57772.ts
 #EXTINF: -1 tvg-id="Star Movies HD" tvg-name="Star Movies HD" tvg-chno="85" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/330px-STAR_Movies_logo.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/330px-STAR_Movies_logo.svg.png" audio-track="English" group-title="{BH} HOTSTAR TV", Star Movies HD
 http://103.115.199.169:8000/play/a096
 #EXTINF: -1 tvg-id="Star Movies Select HD" tvg-name="Star Movies Select HD" tvg-chno="86" tvg-logo="https://www.adgully.com/img/800/202003/star-movies-select-hd.png.jpg" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/c/c5/SMSHD.png/revision/latest?cb=20190810162735AR_Movies_logo.svg/330px-STAR_Movies_logo.svg.png" audio-track="English" group-title="{BH} HOTSTAR TV", Star Movies Select HD
@@ -1908,7 +1908,7 @@ https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_609/output/manifes
 #EXTINF: -1 tvg-id="387" tvg-name="Star Maa Movies HD" tvg-chno="18" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" tvg-logo-small="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Star Maa Movies HD
 https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_611/output/manifest.mpd
 #EXTINF: -1 tvg-id="389" tvg-name="Star Maa Music" tvg-chno="24" tvg-logo="https://www.indiantvinfo.com/media/2022/09/Star-Maa-Music-Channel-300x225.webp" tvg-logo-small="https://www.indiantvinfo.com/media/2022/09/Star-Maa-Music-Channel-300x225.webp" audio-track="Telugu" group-title="{BH} REGIONAL TELUGU", Star Maa Music
-http://tv.trexiptv.com/play/live.php?mac=00:1A:79:BB:78:78&stream=281969&extension=ts&play_token=i9nRUWBbok
+http://starshare.live:8080/live/2875245720/7652457246/57772.ts
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
